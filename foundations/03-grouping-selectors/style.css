@@ -4,3 +4,8 @@
     color: white;
     font-family: Helvetica, 'Times New Roman', Sans-serif
 }
+
+.noclick {
+    background-color: yellow;
+    color: black
+}
