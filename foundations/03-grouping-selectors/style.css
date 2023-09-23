@@ -1,8 +1,13 @@
-.odd {
+.click,
+.noclick {
     font-size: 28px;
-    background-color: black;
-    color: white;
     font-family: Helvetica, 'Times New Roman', Sans-serif
+}
+
+.click {
+    
+    background-color: black;
+    color: white
 }
 
 .noclick {
