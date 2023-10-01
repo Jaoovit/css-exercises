@@ -24,6 +24,14 @@
   align-items: flex-start;
 }
 
+.right-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+
 ul {
   list-style-type: none;
   gap: 8px;
