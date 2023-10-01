@@ -1,9 +1,12 @@
 .header  {
+  height: 100px;
+  width: auto;
   font-family: monospace;
   background: papayawhip;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
 }
 
 .logo {
@@ -19,7 +22,7 @@ ul {
   gap: 8px;
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
 }
 
